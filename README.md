@@ -1,7 +1,7 @@
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fbc2eb&height=200&section=header&text=Aakriti%20Jain&fontSize=50&fontColor=ffffff"/> -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/aacritea/aacritea/main/github%20readme%20banner.gif" width="100%" />
-</p> -->
+<p align="center">
+  <img src="https://github.com/Ujjawalgaur11/Ujjawalgaur11/blob/main/linkedin%20banners%20(1500%20x%20500%20px.gif" width="100%" />
+</p> 
 
 # Hi, I'm Ujjawal! 🙋🏻‍♀️
 👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
