@@ -10,7 +10,6 @@
 🌱 Ex-Research Intern @PPEMD, BARC<br>
 🔭 Working on building informative Machine Learning and Data Science Projects<br>
 
-
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
