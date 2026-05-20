@@ -10,6 +10,13 @@
 🌱 Ex-Research Intern @PPEMD, BARC<br>
 🔭 Working on building informative Machine Learning and Data Science Projects<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Learning+to+build+cool+stuff+🧱;Future+Software+Engineer+💻;Coffee+%2B+Code+%3D+Happiness+🥰)](https://git.io/typing-svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UJJAWALGAUR11&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 🎧 Coding Playlist
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify)]([https://open.spotify.com/playlist/7irxhTnZ7TS0YWzTFOEBRX?si=8d7d45361d564893])
+
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -31,7 +38,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 <!--![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)-->
 
-# 📈 GitHub Contribution Snake
+# 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Ujjawalgaur11/Ujjawalgaur11/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
