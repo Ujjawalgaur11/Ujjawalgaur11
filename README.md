@@ -4,7 +4,7 @@
 </p> 
 
 # Hi, I'm Ujjawal! 🙋🏻‍♀️
-👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
+> 👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
 🎓 Final Year of studying AI and Data Science at IP University, Delhi<br>
 🖥 Diploma Level in IITM's [BS in Data Science and Applications](https://study.iitm.ac.in/ds/)<br>
 🌱 Ex-Research Intern @PPEMD, BARC<br>
@@ -31,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 <!--![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)-->
+
 
 # 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ujjawalgaur11&theme=rose_pine)
